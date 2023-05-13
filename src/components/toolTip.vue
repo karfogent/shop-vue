@@ -41,7 +41,7 @@ export default {
   background-color: #2D2D2D;
   opacity: 80%;
   color: white;
-  padding: 10px;
+  padding: 12px 18px;
   white-space: nowrap;
   font-size: 12px;
   position: absolute;
